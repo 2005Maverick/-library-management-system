@@ -35,7 +35,8 @@ A modern, user-friendly library management system built with Java Swing, featuri
 
 ## Screenshots
 
-Screenshot (99).png
+![Alt text](Screenshot (99).png)
+
 
 
 ## Prerequisites
